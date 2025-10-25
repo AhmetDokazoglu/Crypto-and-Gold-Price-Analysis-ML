@@ -90,4 +90,4 @@ These indicators reflect both short-term trend and volatility dynamics, providin
 ---
 
 ## 📎 Additional Documents  
-📄 [Download Full Project Report (Word Version)](https://github.com/AhmetDokazoglu/Crypto-and-Gold-Price-Analysis-ML/raw/refs/heads/main/Kripto%20ve%20Alt%C4%B1n%20Fiyatlar%C4%B1n%C4%B1n%20Analizi%20ve%20Makine%20%C3%96%C4%9Frenmesi%20ile%20%C3%96ng%C3%B6r%C3%BCs%C3%BC.docx)
+📄 [Download Full Project Report (Word Version)](https://github.com/AhmetDokazoglu/Crypto-and-Gold-Price-Analysis-ML/raw/refs/heads/main/Crypto%20and%20Gold%20Price%20Analysis%20and%20Forecasting%20with%20Machine%20Learning%20(2015%E2%80%932025).docx)
