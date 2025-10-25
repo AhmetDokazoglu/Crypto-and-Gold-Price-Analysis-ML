@@ -81,16 +81,13 @@ Bu göstergeler hem trendi hem de volatilite davranışını yansıtarak kısa v
 
 ---
 
-## 📚 Kaynaklar
-- [Kaggle Veri Seti](https://www.kaggle.com/datasets/muhamedumarjamil/crypto-and-gold-prices-dataset-20152025)  
-- Nakamoto, S. (2008). *Bitcoin: A Peer-to-Peer Electronic Cash System.*  
-- Dyhrberg, A. H. (2016). *Bitcoin, gold and the dollar – A GARCH volatility analysis.*  
-- Corbet et al. (2019). *Cryptocurrencies as a financial asset: A systematic analysis.*
-
----
-
 ## 👨‍💻 Hazırlayan
-**Yunus Ahmet Dokazoğlu**  
-_Data Analyst & Economist_  
+**Yunus Ahmet Dokazoğlu** 
 📍 Ankara, Türkiye  
-📫 [LinkedIn](https://www.linkedin.com/in/ahmet-dokazo%C4%9Flu-9660b2346/) • [GitHub](https://github.com/AhmetDokazoglu)
+🔗 [GitHub Profilim](https://github.com/AhmetDokazoglu)  
+🔗 [LinkedIn Profilim](https://www.linkedin.com/in/ahmet-dokazo%C4%9Flu-9660b2346/)
+
+
+## 📎 Ek Dökümanlar  
+📄 [Proje Raporunun Word Versiyonu (İndir)](https://github.com/AhmetDokazoglu/Lindley-Dagilimi-ile-CLM-Surec-Yeterlilik-Analizi/raw/refs/heads/main/Lindley%20Dagilimi%20ile%20CLM%20Surec%20Yeterlilik%20Analizi.docx)   
+
