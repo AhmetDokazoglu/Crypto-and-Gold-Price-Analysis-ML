@@ -89,5 +89,5 @@ Bu göstergeler hem trendi hem de volatilite davranışını yansıtarak kısa v
 
 
 ## 📎 Ek Dökümanlar  
-📄 [Proje Raporunun Word Versiyonu (İndir)](https://github.com/AhmetDokazoglu/Lindley-Dagilimi-ile-CLM-Surec-Yeterlilik-Analizi/raw/refs/heads/main/Lindley%20Dagilimi%20ile%20CLM%20Surec%20Yeterlilik%20Analizi.docx)   
+📄 [Proje Raporunun Word Versiyonu (İndir)](https://github.com/AhmetDokazoglu/Crypto-and-Gold-Price-Analysis-ML/raw/refs/heads/main/Kripto%20ve%20Alt%C4%B1n%20Fiyatlar%C4%B1n%C4%B1n%20Analizi%20ve%20Makine%20%C3%96%C4%9Frenmesi%20ile%20%C3%96ng%C3%B6r%C3%BCs%C3%BC.docx)   
 
